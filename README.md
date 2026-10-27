@@ -7,9 +7,8 @@ FinTech is a personal finance management application designed to help users trac
 The application provides transaction tracking, financial summaries, category-based expense management, data export, reminders, and backup and restoration functionality to help users manage their financial records efficiently.
 
 ---
-<img width="1063" height="632" alt="Screenshot_20261025-192446 Chrome~2" src="https://github.com/user-attachments/assets/64185e23-3e10-43c9-aaf8-b2bb79d6d02e" />
 
-<img width="555" height="1217" alt="Screenshot_20261025-192456 Chrome~2" src="https://github.com/user-attachments/assets/ff5834d5-6b3a-46d0-9b15-5d1312eda740" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-28 at 2 02 46 AM" src="https://github.com/user-attachments/assets/48d67c55-e01e-4631-8380-bbfa318d5b44" />
 
 
 
