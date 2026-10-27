@@ -1,0 +1,6 @@
+{
+  "name": "FinTech",
+  "description": "FinTech — Dirham & Rupee Smart Expense Tracker. Developed by Musabbir KM. A Zavyani product | zavyani.xyz",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

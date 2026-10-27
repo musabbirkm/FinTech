@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinTech</string>
+    <string name="app_description">FinTech — Dirham &amp; Rupee Smart Expense Tracker</string>
+    <string name="developer_name">Musabbir KM</string>
+    <string name="official_developer_credit">FinTech © 2026 | Developed by Musabbir KM</string>
+    <string name="default_currency">AED</string>
+</resources>
